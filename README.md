@@ -1,4 +1,4 @@
-# 1stYearWEBDEV - Personal Portfolio
+#  My Personal Portfolio
 
 Welcome to my Web Development repository! This project showcases my personal portfolio website, built as a BSIT student to highlight my skills, projects, and academic journey.
 
